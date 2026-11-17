@@ -1,5 +1,5 @@
 # TascaS1.04
-POO on PHP . Part 1
+OOP on PHP . Part 1
 # TascaS1.04
 Exercises to learn Object-Oriented Programming (OOP) in PHP
 PHP OOP Core Concepts & Practical Exercises
